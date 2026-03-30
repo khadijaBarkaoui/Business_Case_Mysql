@@ -85,9 +85,9 @@ A delayed entry allows Eniac to:
 
 ## 📁 Project Structure
 
-* `/sql/` → SQL queries used in analysis
-* `/presentation/` → Final presentation slides
-* `/data/` → Dataset files (if included)
+* SQL queries used in analysis
+* Final presentation slides
+* Dataset files (if included)
 
 ---
 
