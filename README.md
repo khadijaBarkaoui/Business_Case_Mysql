@@ -16,7 +16,7 @@ This project focuses on evaluating whether Eniac should enter the Brazilian mark
 
 ---
 
-## 📊 Dataset & Sources
+## Dataset & Sources
 
 **Source**: Magist Brazilian eCommerce Public Dataset (Olist) – available on Kaggle
 
@@ -100,7 +100,7 @@ A delayed entry allows Eniac to:
 ### 2. Run Analysis
 
 * Open SQL Workbench (or any SQL tool)
-* Run queries from the `/sql/` folder step by step
+* Run queries from the sql folder step by step
 
 ### 3. Explore Results
 
@@ -133,7 +133,7 @@ A strategic delay is the most effective approach.
 
 ---
 
-## 👤 Contact
+## Contact
 
 **Email:** [khadijabarkaoui27@gmail.com](mailto:khadijabarkaoui27@gmail.com)
 **LinkedIn:** [Khadija Barkaoui](https://www.linkedin.com/in/khadija-barkaoui-a48b86229/)
