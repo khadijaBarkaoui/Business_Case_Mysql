@@ -139,7 +139,7 @@ A strategic delay is the most effective approach.
 ## 👤 Contact
 
 **Email:** [khadijabarkaoui27@gmail.com](mailto:khadijabarkaoui27@gmail.com)
-**LinkedIn:** Khadija Barkaoui
+**LinkedIn:** [Khadija Barkaoui](https://www.linkedin.com/in/khadija-barkaoui-a48b86229/)
 
 ---
 
