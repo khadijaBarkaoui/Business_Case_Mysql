@@ -1,9 +1,6 @@
 # Business_Case_Mysql
 SQL analysis of Magist data to evaluate Eniac’s entry into the Brazilian market
 
-# brazil-market-entry-sql-analysis
-
-Analysis of expanding to the Brazil Market using SQL
 
 ---
 
